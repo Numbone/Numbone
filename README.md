@@ -1,7 +1,4 @@
-# Hi there 👋 I'm Нурлыбек
-
-I’m a self-taught **Frontend Developer** who took a wild turn from medicine to tech 💉➡️💻  
-After 7 years in med school, I realized that debugging code is less stressful than diagnosing people 😅
+# Hi there 👋 I'm Nurlybek
 
 ---
 
@@ -31,22 +28,6 @@ After 7 years in med school, I realized that debugging code is less stressful th
 
 ---
 
-## 🌱 Currently Learning
-- 🐹 Backend with **Go**: gRPC, microservices, logging, metrics
-- ☁️ Deploying with Railway
-- 📱 React Native + Expo
-
----
-
-## 📂 Featured Projects
-
-🔹 [Telegram Calculator Bot](https://github.com/Numbone/telegram-calc)  
-_Built with Node.js & Telegram API. Parses math expressions and does the thinking so you don’t have to._
-
-🔹 [Frontend Interview Tasks](https://github.com/Numbone/interview-tasks)  
-_A playground of solved frontend tech challenges and tasks I’ve completed for fun or work._
-
----
 
 ## 📈 GitHub Stats
 
@@ -57,17 +38,3 @@ _A playground of solved frontend tech challenges and tasks I’ve completed for 
 
 ---
 
-## 🤝 Let's Connect
-
-- 📨 Telegram: [@yourusername](https://t.me/yourusername)
-- 💼 LinkedIn: _[Coming soon]_ (drop the link if you have it)
-- 🌐 Portfolio: _[Coming soon]_ (or your Notion/CV/etc.)
-
----
-
-## ⚡ Fun Fact
-
-Once I learned that `console.log()` can save lives — I stopped using a stethoscope.  
-Now I cure UI bugs instead of real bugs 🐛💀
-
----
