@@ -7,6 +7,7 @@
 **Languages & Frameworks:**
 - 💻 JavaScript (ES6+), TypeScript
 - ⚛️ React, Next.js, Vue 3
+- Golang
 
 **State Management:**
 - 🧠 Redux Toolkit, Zustand, React Query, Context API
